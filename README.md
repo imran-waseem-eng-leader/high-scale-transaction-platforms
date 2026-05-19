@@ -110,5 +110,4 @@ Examples are intentionally simplified and generalized for architectural discussi
 
 ## High-Scale Transaction Architecture
 
-![Transaction Platform Architecture](High-scale transaction platform architecture diagram.png)
-
+![Transaction Platform Architecture](architecture/transaction-platform-architecture.png)
