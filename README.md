@@ -107,3 +107,8 @@ rather than purely maximizing throughput.
 ## Disclaimer
 
 Examples are intentionally simplified and generalized for architectural discussion and educational purposes.
+
+## High-Scale Transaction Architecture
+
+![Transaction Platform Architecture](High-scale transaction platform architecture diagram.png)
+
