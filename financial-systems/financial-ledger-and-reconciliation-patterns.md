@@ -155,3 +155,7 @@ As transaction systems grow, operational maturity often becomes just as importan
 Strong financial platforms are rarely defined solely by throughput.
 
 They are defined by their ability to remain reliable, understandable, and operationally trustworthy at scale.
+
+## Reference Architecture
+
+![Financial Ledger Architecture](../architecture/financial-ledger-reconciliation-architecture.png)
